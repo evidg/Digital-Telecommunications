@@ -1,4 +1,4 @@
-# Digital-Telecommunications
+# Digital-Telecommunications Project
 CEID PROJECT 2021
 
 1. Huffman coding: The purpose of this exercise is to extensively study the discrete source encoding method based on Huffman code by implementing a system for encoding/decoding a source of text characters. The performance of the system will be examined in terms of its ability to compress both "artificial" sources (randomly generated characters) and real sources (English word files) in the MATLAB computing environment.
