@@ -5,4 +5,4 @@ CEID PROJECT 2021
    
 2. PCM encoding: Implement a uniform and a non-uniform quantizer of N bits, i.e. 2N levels, as a MATLAB function.
   
-3. Performance Study of a Homogeneous Bandpass System M-PAM: Comparison of the performance of the M-PAM configuration for M = 2, 4, 8, and 16 respectively. This comparison will be based on Bit Error Rate (BER) and Symbol Error Rate (SER) probability measurements performed on a homodyne bandpass system with an orthogonal pulse.
+3. M-PAM: Comparison of the performance of the M-PAM configuration for M = 2, 4, 8, and 16 respectively. This comparison will be based on Bit Error Rate (BER) and Symbol Error Rate (SER) probability measurements performed on a homodyne bandpass system with an orthogonal pulse.
